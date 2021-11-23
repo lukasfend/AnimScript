@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Source+Code+Pro&display=swap');
+
+@font-face {
+  font-family: 'Monego';
+  src: local('Monego'), url(./assets/MonegoFont.otf) format('opentype');
+}
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  margin: 0;
+	overflow: hidden;
+  min-height: 100vh;
+}

@@ -1,0 +1,19 @@
+.statusBar {
+	background-color: #0d7037;
+	color: #ffffff;
+	display: flex;
+	justify-content: space-between;
+	padding: 0;
+	position: absolute;
+	bottom:0;
+	left:0;
+	height: 25px;
+	width: 100%;
+	box-sizing: border-box;
+	font-size: 10pt;
+
+	font-family: "Consolas", monospace;
+	div {
+		padding: 5px;
+	}
+}
